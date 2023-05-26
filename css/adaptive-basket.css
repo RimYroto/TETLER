@@ -106,7 +106,7 @@
     flex-wrap: wrap;
   }
   .container{
-    min-width: 420px;
+    width: 420px;
   }
   .menu__list{
     padding-right: 44px;
