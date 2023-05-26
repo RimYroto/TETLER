@@ -53,6 +53,11 @@
 }
 .basket__list {
   padding-bottom: 39px;
+  padding-left: 0px;
+}
+.basket__list-scrum{
+  padding-left: 20px;
+  padding-right: 20px;
 }
 }
 @media only screen and (max-width: 500px) {
@@ -106,9 +111,19 @@
     flex-wrap: wrap;
   }
   .container{
-    width: 420px;
+    width: 100%;
   }
   .menu__list{
     padding-right: 44px;
+  }
+  .footer__menu {
+    flex-wrap: wrap;
+    padding-right: 40px;
+}
+.footer__menu-list {
+  padding: 0;
+}
+  .cart{
+    width: 250px;
   }
 }

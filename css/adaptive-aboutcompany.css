@@ -65,12 +65,19 @@
     flex-wrap: wrap;
   }
   .container{
-    width: 420px;
+    width: 100%;
   }
   .menu__list{
     padding-right: 44px;
   }
+  .footer__menu {
+    flex-wrap: wrap;
+    padding-right: 40px;
+}
+.footer__menu-list {
+  padding: 0;
+}
   .founder{
-    width: 350px;
+      width: 300px;
   }
 }
