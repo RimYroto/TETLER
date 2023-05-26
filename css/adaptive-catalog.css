@@ -6,12 +6,15 @@
   }
   .series__animal-list{
     flex-wrap: wrap;
+    padding-left: 0;
   }
   .series__spacer-list{
     flex-wrap: wrap;
+    padding-left: 0;
   }
   .series__dragonl-list{
     flex-wrap: wrap;
+    padding-left: 0;
   }
 }
 @media only screen and (max-width: 768px) {
@@ -57,9 +60,16 @@
     flex-wrap: wrap;
   }
   .container{
-    width: 420px;
+    width: 100%;
   }
   .menu__list{
     padding-right: 44px;
   }
+  .footer__menu {
+    flex-wrap: wrap;
+    padding-right: 40px;
+}
+.footer__menu-list {
+  padding: 0;
+}
 }
