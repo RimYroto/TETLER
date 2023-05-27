@@ -125,4 +125,14 @@
 .footer__menu-list {
   padding: 0;
 }
+.menu__list {
+  padding-right: 44px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+.pDOWN {
+  padding-left: 0px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
 }
