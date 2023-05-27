@@ -72,4 +72,9 @@
 .footer__menu-list {
   padding: 0;
 }
+.menu__list {
+  padding-right: 44px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
 }

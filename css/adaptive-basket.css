@@ -126,4 +126,45 @@
   .cart{
     width: 250px;
   }
+  .menu__list {
+    padding-right: 44px;
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+  .basket__dop {
+    padding-right: 0px;
+    padding-left: 0px;
+    font-size: 15px;
+}
+.basket__list-scrum {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.basket__quatity {
+  font-size: 25px;
+}
+.basket__scrum {
+  font-size: 28px;
+}
+.basket__dop-price {
+  font-size: 28px;
+}
+.basket__dop-buy {
+  font-size: 36px;
+}
+.basket__dop-buy {
+  font-size: 36px;
+  padding-bottom: 10px;
+  border: 4px dashed black;
+  margin-top: 10px;
+  border-radius: 51px;
+  width: 150px;
+  margin: 0 auto;
+  margin-top: 22px;
+}
+.basket__list {
+  padding-bottom: 39px;
+  padding-left: 0px;
+  padding-top: 25px;
+}
 }

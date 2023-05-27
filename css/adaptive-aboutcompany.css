@@ -80,4 +80,9 @@
   .founder{
       width: 300px;
   }
+  .menu__list {
+    padding-right: 44px;
+    padding-right: 12px;
+    padding-left: 12px;
+  }
 }
